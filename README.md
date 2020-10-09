@@ -16,3 +16,9 @@ Using Matplotlib, generate a box and whisker plot of the final tumor volume for 
 Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+## Observations and Insights
+1.	By looking at the bar chart, we can understand number of mice which is used for the test in Capomulin and Ramicane are more than others and Propriva has the least number. 
+2.	By looking at the pie chart, we can understand 50.6% of samples are male and 49.4% are female which is an equal number of each sex in the study.
+3.	By looking at the boxplot, we can understand Capomulin treatment and Ramicane treatment have a better effect to reduce the tumor volume
+4.	By looking at the scatter plot, we can understand the strong positive relationship between weight (g) and average tumor volume (mm3) in Capomulin treatment, which means by increasing weight the tumor volume grows as well. The r-squared in this model is 0.70 which means 70% of samples fitted for this model.
+
