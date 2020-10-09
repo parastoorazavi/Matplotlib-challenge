@@ -1,5 +1,5 @@
 # Matplotlib Homework - The Power of Plots
-# Pymaceuticals
+## Pymaceuticals
 
 ## Background
 What good is data without a good plot to tell the story?
